@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddc9f6da-73a3-4920-9b3c-dbab717319ad": {
+      "ProjectGuid": "ddc9f6da-73a3-4920-9b3c-dbab717319ad",
+      "DisplayName": "BelieveOrNotBelieve",
+      "ColorIndex": 0
+    },
+    "3697912c-f0b3-4fbf-b354-ec5383ad8e60": {
+      "ProjectGuid": "3697912c-f0b3-4fbf-b354-ec5383ad8e60",
+      "DisplayName": "ConvertCSVtoXML",
+      "ColorIndex": 1
+    },
+    "ca12b8d9-bf9b-4c4e-8d0c-ee0dd7f5cfcc": {
+      "ProjectGuid": "ca12b8d9-bf9b-4c4e-8d0c-ee0dd7f5cfcc",
+      "DisplayName": "PropertyTextValue",
+      "ColorIndex": 2
+    },
+    "13443b88-158b-42dc-a38b-0a6fe5ac407f": {
+      "ProjectGuid": "13443b88-158b-42dc-a38b-0a6fe5ac407f",
+      "DisplayName": "PutEnglishWords",
+      "ColorIndex": 3
+    },
+    "2a288bf4-464e-410c-a5bf-f55e6f219687": {
+      "ProjectGuid": "2a288bf4-464e-410c-a5bf-f55e6f219687",
+      "DisplayName": "Reflection",
+      "ColorIndex": 4
+    },
+    "406d3c6f-3aad-493b-a3c4-8e0fa93a9c68": {
+      "ProjectGuid": "406d3c6f-3aad-493b-a3c4-8e0fa93a9c68",
+      "DisplayName": "WeatherAppTest",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
